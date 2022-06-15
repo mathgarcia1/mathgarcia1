@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathgarcia1
-- 👀 I’m interested in Java/Angular
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java/Spring/Hibernate/Angular
 - 💞️ I’m looking to collaborate on interesting things
 - 📫 How to reach me:
