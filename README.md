@@ -1,7 +1,7 @@
 <div >
   <div align="center">
     <picture>
-      <source srcset="banner_1.jpg" media="(min-width: 240px)" />
+      <source srcset="banner_1.jpg" />
       <img srcset="banner_1.jpg" alt="Art" />
     </picture>
     </br>
