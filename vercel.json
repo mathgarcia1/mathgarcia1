@@ -2,7 +2,8 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/novatorem/novatorem"
+      "destination": "https://github.com/mathgarcia1/mathgarcia1",
+      "maxDuration": 10,
     }
   ]
 }
