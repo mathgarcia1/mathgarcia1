@@ -1,8 +1,8 @@
 <div >
   <div align="center">
     <picture>
-      <source srcset="banner.jpg" media="(min-width: 240px)" />
-      <img srcset="banner.jpg" alt="Art" />
+      <source srcset="banner_1.jpg" media="(min-width: 240px)" />
+      <img srcset="banner_1.jpg" alt="Art" />
     </picture>
     </br>
     <sub><sup>*I didn't make this art, i'm only using for aesthetics, all credits for the creator</sup></sub>
